@@ -3,7 +3,7 @@ A GUI Based Implementation of Banker's Algorithm for Deadlock Avoidance.
 
 
 ### Video Walkthrough of How to Use This Application:
-https://www.youtube.com/watch?v=L1UcSU95MP4&list=PLTtqzYonD-4SZFuFw8tQX4z_IBKfwQbGY&index=3&t=0s
+https://www.youtube.com/watch?v=L1UcSU95MP4
 
 
 This Application is A Simple GUI For Solving Banker's Algorithm Problems.
